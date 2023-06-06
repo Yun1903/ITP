@@ -1,4 +1,4 @@
 # ITP
 
-Ilk degisiklik Not defteriyle
+Yeni degisiklik Not defteriyle
 2. degisiklik VSCode
